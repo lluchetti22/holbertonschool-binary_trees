@@ -9,7 +9,7 @@
  * Return: the code
  */
 
-int tree_stats(const binary_tree_t *tree, int *height, int *size)
+void tree_stats(const binary_tree_t *tree, int *height, int *size)
 {
 int h_left = 0, h_right = 0;
 int s_left = 0, s_right = 0;
