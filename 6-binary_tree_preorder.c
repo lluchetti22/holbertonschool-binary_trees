@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * binary_tree_is_root - Binary tree node
+ * binary_tree_preorder - Binary tree node
  * @tree: node
  * @func: void
  * Return: the code
