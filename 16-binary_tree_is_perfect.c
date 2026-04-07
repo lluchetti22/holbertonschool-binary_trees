@@ -47,7 +47,7 @@ return (0);
 
 tree_stats(tree, &height, &size);
 
-for(i = 0; i < height; i++)
+for (i = 0; i < height; i++)
 {
 perfect *= 2;
 }
