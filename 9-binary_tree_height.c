@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * binary_tree_postorder - Binary tree node
+ * binary_tree_height - Binary tree node
  * @tree: node
  * Return: the code
  */
