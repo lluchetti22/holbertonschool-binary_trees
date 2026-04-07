@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * binary_tree_insert_left - Binary tree node
+ * binary_tree_insert_right - Binary tree node
  * @value: Integer stored in the node
  * @parent: Pointer to the parent node
  * Return: the code
