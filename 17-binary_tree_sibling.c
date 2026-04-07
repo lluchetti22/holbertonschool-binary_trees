@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * tree_stats - Binary tree node
+ * binary_tree_sibling - Binary tree node
  * @node: node
  * Return: the code
  */
