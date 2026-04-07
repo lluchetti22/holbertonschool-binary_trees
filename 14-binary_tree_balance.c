@@ -31,7 +31,7 @@ return (right_h + 1);
 
 
 /**
- * binary_tree_nodes - Binary tree node
+ * binary_tree_balance - Binary tree node
  * @tree: node
  * Return: the code
  */
