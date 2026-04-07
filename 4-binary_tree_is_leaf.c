@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * binary_tree_delete - Binary tree node
+ * binary_tree_is_leaf - Binary tree node
  * @node: node
  * Return: the code
  */
