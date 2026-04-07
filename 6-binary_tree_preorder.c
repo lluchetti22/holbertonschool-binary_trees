@@ -1,0 +1,22 @@
+#include "binary_trees.h"
+#include <stdlib.h>
+
+/**
+ * binary_tree_is_root - Binary tree node
+ * @tree: node
+ * @func: void
+ * Return: the code
+ */
+
+void binary_tree_preorder(const binary_tree_t *tree, void (*func)(int)) 
+{
+if (tree == NULL || func == NULL)
+{
+return;
+}
+
+func(tree->n);
+
+binary_tree_preorder(tree->left, func);
+binary_tree_preorder(tree->right, func);
+}
